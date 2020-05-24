@@ -1,19 +1,22 @@
 
 Deno 🦕 [![License](https://img.shields.io/cocoapods/l/ParticlesLoadingView.svg?style=flat)](LICENSE.md)
 =======
-This repo has the purpose to look into `deno` and make some examples with it. The example are done in _Typescript_ and are placed in examples _folder_. Before execute the code you'll need to install deno  `deno` . 
+This repo has the purpose to look into `deno` and make some examples with it. The examples were done in _Typescript_ (but you can use `javascript` too) and are placed in examples _folder_. Before execute the code you'll need to install `deno` . 
 
 Installation
 =======
 Deno ships as a single executable with no dependencies. 
 
-* Shell (Mac, Linux):
+* Shell (Mac, Linux): `` curl -fsSL https://deno.land/x/install/install.sh | sh ``
 
-``
-curl -fsSL https://deno.land/x/install/install.sh | sh
-``
+Check the deno's manual [here](https://deno.land/manual#introduction). Or the specific installation instructions [here](https://deno.land/manual/getting_started/installation). 
 
-Check the deno's manual [here](https://deno.land/manual#introduction).
+⚠️ If is the first time you install  `deno`  in your linux machine make sure you add the necessary _environment variables_ in your `.bash_profile`. After adding your variables check your `deno` version with `deno --version`
+
+
+Usage
+=======
+Go to folder `/examples` and write `deno run HelloWorld.ts`. That's all!
 
 License
 =======
