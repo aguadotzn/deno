@@ -22,7 +22,7 @@ License
 =======
 This work has been licensed under **MIT**. See file [LICENSE](LICENSE) for details. 
 
-Authored and maintained by [Adrián Aguado](github.com/aguadotzn). Copyright © 2020.  
+Authored and maintained by [Adrián Aguado](https://github.com/aguadotzn). Copyright © 2020.  
 
 
->For any inquiries, you can contact me on [Twitter](twitter.com/aguadotzn).
+>For any inquiries, you can contact me on [Twitter](https://twitter.com/aguadotzn).
