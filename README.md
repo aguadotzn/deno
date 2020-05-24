@@ -16,13 +16,13 @@ Check the deno's manual [here](https://deno.land/manual#introduction). Or the sp
 
 Usage
 =======
-Go to folder `/examples` and write `deno run HelloWorld.ts`. That's all!
+Go to folder `/examples` and select the folder that you want (A lower number indicates less complexity).  Inside the folder write  `deno run index.ts`. 
 
 License
 =======
 This work has been licensed under **MIT**. See file [LICENSE](LICENSE) for details. 
 
-Authored and maintained by [Adrián Aguado](github.com/aguadotzn). Copyright (C) 2020. 
+Authored and maintained by [Adrián Aguado](github.com/aguadotzn). Copyright © 2020.  
 
 
 >For any inquiries, you can contact me on [Twitter](twitter.com/aguadotzn).
